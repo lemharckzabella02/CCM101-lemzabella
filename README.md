@@ -24,4 +24,4 @@ Throughout this course, I will be developing practical skills in:
 
 | # | Activity             | Link                                                                     |
 | - | -------------------- | ------------------------------------------------------------------------ |
-| 1 | Welcome to the Cloud | [Laboratory-01-Welcome-to-the-Cloud](Laboratory-01-Welcome-to-the-Cloud) |
+| 1 | Welcome to the Cloud | https://github.com/lemharckzabella02/CCM101-lemzabella/tree/main/Laboratory-01-Welcome-to-the-cloud |
