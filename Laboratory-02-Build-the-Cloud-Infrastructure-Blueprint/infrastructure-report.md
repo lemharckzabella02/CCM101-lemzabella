@@ -23,8 +23,3 @@ tier. The disk is split across three partitions: a small EFI boot partition, a s
 interface was also present, indicating Docker is installed on the host even though it
 wasn't actively used during this investigation. A 1 GiB swap partition is also configured
 as a memory overflow buffer, though it was unused (0B) at the time of inspection.
-
-## Screenshots
-![Server Info](screenshots/server-information.png)
-![Storage Info](screenshots/storage-information.png)
-![Network Info](screenshots/network-information.png)
