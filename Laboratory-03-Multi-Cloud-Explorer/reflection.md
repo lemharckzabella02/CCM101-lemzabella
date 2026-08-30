@@ -1,0 +1,11 @@
+# Mission Reflection
+
+Out of the three cloud platforms, Google Cloud Platform impressed me the most. I didn't expect a "smaller" player compared to AWS and Azure to have such a strong edge in specific areas — especially since it created and open-sourced Kubernetes, and its AI/ML tools like Vertex AI and BigQuery are considered some of the best in the industry. It showed me that being the biggest isn't the same as being the best fit for every use case.
+
+Researching all three platforms also made it clear how similar they actually are under the hood. AWS, Azure, and GCP all offer the same basic building blocks — virtual machines, object storage, managed SQL databases, identity and access management, and Kubernetes support — just under different names (EC2 vs. Virtual Machines vs. Compute Engine, S3 vs. Blob Storage vs. Cloud Storage, and so on). Once I understood one platform's core services, mapping them to the other two became much easier.
+
+The client recommendation exercise was probably the most eye-opening part of this lab. Each client had a completely different reason for choosing their recommended platform — the startup needed low-cost scalability, the university needed to stay compatible with its existing Microsoft tools, the AI research company needed strong compute and ML tooling, and the e-commerce company needed global availability. None of them picked a platform just because it was "the most popular." That drove home the idea that a good cloud engineer chooses based on the client's actual problem, not personal preference or brand reputation.
+
+Acting as a Cloud Solutions Consultant taught me to think less like a student memorizing service names and more like someone solving a real business problem. I had to weigh trade-offs and justify decisions instead of just listing facts.
+
+Finally, my GitHub Cloud Computing Portfolio feels a lot more professional after this mission. Compared to my earlier labs, this one pushed me to organize research, comparisons, and recommendations into clearly separated markdown files with a consistent folder structure, which makes the whole repository easier to navigate and reads more like real documentation than a class assignment.
