@@ -22,6 +22,8 @@ Throughout this course, I will be developing practical skills in:
 
 ## Laboratory Activities
 
-| # | Activity             | Link                                                                     |
-| - | -------------------- | ------------------------------------------------------------------------ |
-| 1 | Welcome to the Cloud | https://github.com/lemharckzabella02/CCM101-lemzabella/tree/main/Laboratory-01-Welcome-to-the-cloud |
+| # | Activity                                    | Link                                                                                                            |
+| - | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 1 | Welcome to the Cloud                         | https://github.com/lemharckzabella02/CCM101-lemzabella/tree/main/Laboratory-01-Welcome-to-the-cloud                |
+| 2 | Build the Cloud Infrastructure Blueprint     | https://github.com/lemharckzabella02/CCM101-lemzabella/tree/main/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint |
+| 3 | Multi-Cloud Explorer                         | https://github.com/lemharckzabella02/CCM101-lemzabella/tree/main/Laboratory-03-Multi-Cloud-Explorer                |
