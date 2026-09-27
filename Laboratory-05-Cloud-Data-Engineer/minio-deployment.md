@@ -35,7 +35,7 @@ These environment variables are injected into the container at startup and confi
 ## Screenshots
 ## MinIO Server Running
 <img width="1343" height="601" alt="minio-deployed" src="https://github.com/user-attachments/assets/571c4c08-858c-4942-8486-16b55a72c711" />
-— terminal output showing successful deployment and running container
+Terminal output showing successful deployment and running container
 ##Bucket Created and File Uploaded
 <img width="1917" height="1078" alt="minio-bucket-upload" src="https://github.com/user-attachments/assets/526dec1e-f464-4c7c-9efe-fb1fd8f0cae8" />
 MinIO console showing the `client-photos` bucket with uploaded file
