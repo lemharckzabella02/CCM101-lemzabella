@@ -31,3 +31,4 @@ Throughout this course, I will be developing practical skills in:
 | 3 | Multi-Cloud Explorer | https://github.com/lemharckzabella02/CCM101-lemzabella/tree/main/Laboratory-03-Multi-Cloud-Explorer |
 | 4 | Cloud-Native Engineer | https://github.com/lemharckzabella02/CCM101-lemzabella/tree/main/Laboratory-04-Cloud-Native-Engineer |
 | 5 | Cloud Data Engineer | https://github.com/lemharckzabella02/CCM101-lemzabella/tree/main/Laboratory-05-Cloud-Data-Engineer |
+| 6 | Cloud Deployment Engineer | https://github.com/lemharckzabella02/CCM101-lemzabella/tree/main/Laboratory-06-Cloud-Deployment-Engineer |
