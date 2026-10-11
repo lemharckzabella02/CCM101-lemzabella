@@ -21,15 +21,6 @@ docker-compose ps
 docker-compose down
 ```
 
-## Screenshots
-
-<img width="1112" height="1012" alt="compose-deployment" src="https://github.com/user-attachments/assets/58ce14fa-c38b-4d7f-8f0a-37d84cf44956" />
-
-<img width="1913" height="1015" alt="nextcloud-web" src="https://github.com/user-attachments/assets/93c0d47a-216c-455a-90f4-e35f69aba4a8" />
-
-<img width="537" height="130" alt="compose-teardown" src="https://github.com/user-attachments/assets/5adcad2f-d88d-4045-8e52-2a8e6c32180f" />
-
-
 ## Skills Learned
 
 - Writing and understanding a Docker Compose file.
