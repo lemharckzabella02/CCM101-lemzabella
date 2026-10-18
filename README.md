@@ -34,3 +34,4 @@ Throughout this course, I will be developing practical skills in:
 | 6 | Cloud Deployment Engineer | https://github.com/lemharckzabella02/CCM101-lemzabella/tree/main/Laboratory-06-Cloud-Deployment-Engineer |
 | 7 | Cloud Operations Engineer | https://github.com/lemharckzabella02/CCM101-lemzabella/tree/main/Laboratory-07-Cloud-Operations-Engineer |
 | 8 | Cloud Security Engineer | https://github.com/lemharckzabella02/CCM101-lemzabella/tree/main/Laboratory-08-Cloud-Security-Engineer |
+| 9 | Cloud Automation Engineer | https://github.com/lemharckzabella02/CCM101-lemzabella/tree/main/Laboratory-09-Cloud-Automation-Engineer |
